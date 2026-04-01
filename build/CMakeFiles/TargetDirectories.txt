@@ -1,0 +1,3 @@
+/home/abigael/proiecte/SimulareTrafic/build/CMakeFiles/SimulareTrafic.dir
+/home/abigael/proiecte/SimulareTrafic/build/CMakeFiles/edit_cache.dir
+/home/abigael/proiecte/SimulareTrafic/build/CMakeFiles/rebuild_cache.dir

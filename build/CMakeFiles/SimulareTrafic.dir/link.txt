@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SimulareTrafic.dir/main.cpp.o CMakeFiles/SimulareTrafic.dir/src/Vehicul.cpp.o -o SimulareTrafic 
